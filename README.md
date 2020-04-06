@@ -26,3 +26,6 @@ Abra uma outra aba no terminal e então execute o comando abaixo para rodar o fl
 `flask run`
 
 Não esqueça que para executar o comando acima, você deve acessar o ambiente virtual como mostrado anteriormente.
+
+
+O link da live que foi abordado esse exemeplo: https://youtu.be/3l0WJEBjp7o
